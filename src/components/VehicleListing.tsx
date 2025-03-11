@@ -1648,7 +1648,7 @@ const VEHICLE_DATA = {
           enabled: true,
           // Array of images for the 360-degree view (8-12 images for smooth rotation)
           images: [
-           "/Pickup & Bus/Hilux/Impact-absorbing-Frame.jpg",
+           "/Pickup & Bus/HIlux/Impact-absorbing-Frame.jpg",
            "/Pickup & Bus/Hilux/Dramatic-Looks.jpg",
            "/Pickup & Bus/Hilux/SRS-Airbags.jpg",
            "/Pickup & Bus/Hilux/Aerodynamic-Efficiency.jpg",
