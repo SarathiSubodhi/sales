@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 75">
+  <linearGradient id="arrowGradient" gradientUnits="userSpaceOnUse" x1="-17.5507" y1="37.518" x2="1913.3495" y2="37.518" gradientTransform="matrix(-1 0 0 -1 300 75)">
+    <stop offset="0" style="stop-color:#000000"></stop>
+    <stop offset="1" style="stop-color:#ffffff;stop-opacity:0"></stop>
+  </linearGradient>
+  <path style="fill:url(#arrowGradient);" d="M141,63.1c43.9-8.3,87-20.9,128-38.7l1.5,14.5L300,0l-35.3,17.2 c-39.4,18.5-81.5,32.3-124.6,41.7C94.3,69,47.2,74,0,74.9C47.2,75.5,94.6,71.9,141,63.1z"></path>
+</svg>

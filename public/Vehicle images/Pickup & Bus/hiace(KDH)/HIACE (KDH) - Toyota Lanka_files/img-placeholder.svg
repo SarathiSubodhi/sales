@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2000 2000">
+  <defs>
+    <filter id="imgBlur">
+      <feGaussianBlur stdDeviation="12"></feGaussianBlur>
+    </filter>
+  </defs>
+  <path d="M0 0h2000v2000H0z" fill="#292929"></path>
+  <g filter="url(#imgBlur)" transform="translate(4 4) scale(7.8125)" fill-opacity="0.25">
+    <ellipse rx="1" ry="1" transform="matrix(50.41098 -3.7951 11.14787 148.07886 107 194.6)" fill="#000210" opacity="0"></ellipse>
+    <ellipse rx="1" ry="1" transform="matrix(-56.38179 17.684 -24.48514 -78.06584 205 110.1)" fill="#eee3bb"></ellipse>
+    <ellipse rx="1" ry="1" transform="matrix(35.40604 -5.49219 14.85017 95.73337 16.4 123.6)" fill="#fff4bd"></ellipse>
+    <ellipse cx="21" cy="39" rx="65" ry="65" fill="#79c7db"></ellipse>
+    <ellipse cx="117" cy="38" rx="34" ry="47" fill="#0c1320" opacity="0"></ellipse>
+    <ellipse rx="1" ry="1" transform="matrix(-39.46201 77.24476 -54.56092 -27.87353 219.2 7.9)" fill="#5cb0cd"></ellipse>
+    <ellipse cx="214" cy="237" rx="242" ry="19" fill="#47332f"></ellipse>
+    <path d="M271 159l-123–16 43 128z" fill="#e57339"></path>
+  </g>
+</svg>
