@@ -1649,9 +1649,9 @@ const VEHICLE_DATA = {
           // Array of images for the 360-degree view (8-12 images for smooth rotation)
           images: [
            "/Pickup & Bus/HIlux/Impact-absorbing-Frame.jpg",
-           "/Pickup & Bus/Hilux/Dramatic-Looks.jpg",
-           "/Pickup & Bus/Hilux/SRS-Airbags.jpg",
-           "/Pickup & Bus/Hilux/Aerodynamic-Efficiency.jpg",
+           "/Pickup & Bus/HIlux/Dramatic-Looks.jpg",
+           "/Pickup & Bus/HIlux/SRS-Airbags.jpg",
+           "/Pickup & Bus/HIlux/Aerodynamic-Efficiency.jpg",
           ],
         },
         colors: [
@@ -1673,7 +1673,7 @@ const VEHICLE_DATA = {
               ],
             },
             images: [
-             "/Pickup & Bus/Hilux/Impact-absorbing-Frame.jpg",
+             "/Pickup & Bus/HIlux/Impact-absorbing-Frame.jpg",
              "/Pickup & Bus/Hilux/Dramatic-Looks.jpg",
              "/Pickup & Bus/Hilux/SRS-Airbags.jpg",
              "/Pickup & Bus/Hilux/Aerodynamic-Efficiency.jpg",
@@ -1697,7 +1697,7 @@ const VEHICLE_DATA = {
               ],
             },
             images: [
-             "/Pickup & Bus/Hilux/Impact-absorbing-Frame.jpg",
+             "/Pickup & Bus/HIlux/Impact-absorbing-Frame.jpg",
              "/Pickup & Bus/Hilux/Dramatic-Looks.jpg",
              "/Pickup & Bus/Hilux/SRS-Airbags.jpg",
              "/Pickup & Bus/Hilux/Aerodynamic-Efficiency.jpg",
@@ -1721,7 +1721,7 @@ const VEHICLE_DATA = {
               ],
             },
             images: [
-             "/Pickup & Bus/Hilux/Impact-absorbing-Frame.jpg",
+             "/Pickup & Bus/HIlux/Impact-absorbing-Frame.jpg",
              "/Pickup & Bus/Hilux/Dramatic-Looks.jpg",
              "/Pickup & Bus/Hilux/SRS-Airbags.jpg",
              "/Pickup & Bus/Hilux/Aerodynamic-Efficiency.jpg",
